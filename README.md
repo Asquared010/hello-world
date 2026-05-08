@@ -6,7 +6,7 @@ This program is a simple "Hello World" application that prints messages to the s
 
 My purpose for creating this software is to practice core development skills that will be used throughout this course and future software projects, including writing code, managing repositories, and documenting work professionally.
 
-[Software Demo Video](PASTE_YOUTUBE_LINK_HERE)
+[Software Demo Video](https://youtube.com/shorts/3iJaakLJV9g)
 
 # Development Environment
 
